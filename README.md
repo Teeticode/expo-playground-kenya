@@ -3,7 +3,7 @@
 
 🌟 Overview
 
-Welcome to the Expo Community Project by Teeticode! 🎉 This project is a vibrant hub for Expo enthusiasts, designed to [briefly describe the main purpose and goal of the project]. Whether you're a seasoned developer or just embarking on your Expo journey, join us in contributing, learning, and growing together. 🌈
+Welcome to the Expo Community Project by Teeticode! 🎉 This project is a vibrant hub for Expo enthusiasts, designed to [briefly describe the main purpose and goal of the project]. Whether you're a seasoned developer or just embarking on your Expo journey, join us in contributing, learning, and growing together.🚀 
 
 ✨ Features
 
