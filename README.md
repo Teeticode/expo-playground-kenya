@@ -1,14 +1,6 @@
 # expo-playground-kenya
 🚀 Expo Community Project by Teeticode
 
-                                     .__                                                     .___
-  ____ ___  _________   ____   ______ |  | _____  ___.__. ___________  ____  __ __  ____    __| _/
-_/ __ \\  \/  /\____ \ /  _ \  \____ \|  | \__  \<   |  |/ ___\_  __ \/  _ \|  |  \/    \  / __ | 
-\  ___/ >    < |  |_> >  <_> ) |  |_> >  |__/ __ \\___  / /_/  >  | \(  <_> )  |  /   |  \/ /_/ | 
- \___  >__/\_ \|   __/ \____/  |   __/|____(____  / ____\___  /|__|   \____/|____/|___|  /\____ | 
-     \/      \/|__|            |__|             \/\/   /_____/                         \/      \/ 
-
-
 🌟 Overview
 
 Welcome to the Expo Community Project by Teeticode! 🎉 This project is a vibrant hub for Expo enthusiasts, designed to [briefly describe the main purpose and goal of the project]. Whether you're a seasoned developer or just embarking on your Expo journey, join us in contributing, learning, and growing together. 🌈
